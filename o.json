@@ -76,7 +76,7 @@
 {"key":"csp_XYQBiu_斗鱼","name":"🐟斗鱼直播","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://cdn.饭太硬.ga/x/XYQ/斗鱼直播.json"},
 {"key":"csp_xBPQ_聚短视频","name":"📽️聚短视频","type":3,"api":"csp_xBPQ","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://cdn.饭太硬.ga/x/xbpq/短视频.json"},
 
-{"key":"Zhaozy","name":"🐺找资源┃搜4K","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":0,"filterable":0,"changeable":0,"ext":"http://ali.饭太硬.ml/token$$$自己去注册$$$qq112233"},
+{"key":"Zhaozy","name":"🐺找资源┃搜4K","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":0,"filterable":0,"changeable":0,"ext":"Hm_lpvt_f8dbe8e3528b7f9c3a3ac55d5d63f51a"},
 {"key":"PanSou","name":"🦊盘搜┃搜4K","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"http://ali.饭太硬.ml/token"},
 {"key":"UpYun","name":"😻Up搜┃搜4K","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"http://ali.饭太硬.ml/token"},
 {"key":"push_agent","name":"🛴手机┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://ali.饭太硬.ml/token"},
