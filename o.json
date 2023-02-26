@@ -22,7 +22,7 @@
       "quickSearch": 1,
       "filterable": 0
     },
-{"key":"csp_Alist1","name":"🅿Alist┃网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":0,"filterable":0,"ext":"http://cdn.饭太硬.ga/x/json/alist.json"},
+{"key":"csp_Alist1","name":"🅿Alist┃网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://raw.githubusercontent.com/moshall/lucy/7613b44b558811db4cf577571f35149047946a5e/n_alist.json?token=GHSAT0AAAAAAB7I2TLVVRDITSMFUQI2JO42Y724L4Q"},
 {"key":"csp_Bili","name":"🅱哔哩┃合集","type": 3,"api": "csp_Bili","searchable":1,"quickSearch": 0,"filterable": 0,"ext":"http://cdn.饭太硬.ga/x/json/bilibili.json"},
 {"key":"csp_Biliych","name":"🅱哔哩┃演唱会","type": 3,"api": "csp_Bili","searchable":1,"quickSearch": 0,"filterable": 1,"ext":"http://cdn.饭太硬.ga/x/json/biliych.json"},
 
