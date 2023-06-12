@@ -4,7 +4,7 @@
 "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
 
 "sites":[
-  {"key":"drpy_js_豆瓣","name":"豆瓣┃2ha.cc","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"http://ftp6284928.host108.abeiyun.cn/drpy/js/drpy.js"},
+  // {"key":"drpy_js_豆瓣","name":"豆瓣┃2ha.cc","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"http://ftp6284928.host108.abeiyun.cn/drpy/js/drpy.js"},
   {"key":"drpy_js_豆瓣","name":"搜索|豆瓣[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/drpy.js"},
     {
       "key": "douban",
