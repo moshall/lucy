@@ -23,9 +23,31 @@
             "quickSearch": 1,
             "filterable": 1
         },
+   {
+            "key": "豆瓣",
+            "name": "豆瓣┃推荐",
+            "type": 3,
+            "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": "https://drpy.cainisi.cf/js/drpy.js"
+        },
+        {
+            "key": "荐片",
+            "name": "荐片┃影视",
+            "type": 3,
+            "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://drpy.cainisi.cf/js/荐片.js"
+        },
   {"key":"drpy_js_豆瓣","name":"搜索|豆瓣[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/drpy.js"},
   {"key":"T4_douban1","name":"🔍影视推荐1(T4)","type":4,"api":"http://t4.ganggang.live:3812/vod","searchable":1,"quickSearch":1,"filterable":1},
-  {"key":"T4_douban2","name":"🔍影视推荐2(T4)","type":4,"api":"https://t4.饭太硬.ml/vod","searchable":1,"quickSearch":1,"filterable":1},
+ // {"key":"T4_douban2","name":"🔍影视推荐2(T4)","type":4,"api":"https://t4.饭太硬.ml/vod","searchable":1,"quickSearch":1,"filterable":1},
     {
       "key": "douban",
       "name": "🔍豆瓣榜单1〔不要勾选〕",
@@ -64,6 +86,38 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0
+        },
+          {
+            "key": "两个BT",
+            "name": "两个BT┃影视",
+            "type": 3,
+            "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "playerType": 1,
+            "ext": "https://drpy.cainisi.cf/js/两个BT.js"
+        },
+   {
+            "key": "乐猪TV",
+            "name": "乐猪┃影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://tvbox.cainisi.cf/json/XBPQ/乐猪TV.json"
+        },
+          {
+            "key": "探探",
+            "name": "🏵探探┃App",
+            "type": 3,
+            "api": "csp_YT",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
         },
 {"key":"csp_Bili","name":"🅱哔哔┃合集","type": 3,"api": "csp_Bili","searchable":1,"quickSearch": 0,"filterable": 0,"changeable":0,"ext":"http://饭太硬.top/x/json/bilibili.json"},
 {"key":"csp_Biliych","name":"🅱哔哔┃演唱会","type": 3,"api": "csp_Bili","searchable":1,"quickSearch": 0,"filterable": 1,"changeable":0,"ext":"http://饭太硬.top/x/json/biliych.json"},
