@@ -5,7 +5,14 @@
 
 "sites":[
   // {"key":"drpy_js_豆瓣","name":"豆瓣┃2ha.cc","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"http://ftp6284928.host108.abeiyun.cn/drpy/js/drpy.js"},
-   {
+  {
+      "key": "js豆瓣",
+      "name": "┃豆瓣┃小雅",
+      "type": 3,
+      "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
+      "ext": "http://alist.xn--z7x900a.love:63/豆瓣.js"
+    },
+  {
             "key": "js豆瓣",
             "name": "🐼┃豆瓣┃免费接口，微信公众号：肥猫不肥",
             "type": 3,
