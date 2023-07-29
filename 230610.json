@@ -1,10 +1,30 @@
 {
 // "spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;f29e9bc19d40c5d4cbb271ec41172c74",
-"spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;e5d54e7f113a9eb29a7ff6bbebe7eca9",
-"wallpaper":"http://饭太硬.top/深色壁纸/api.php",
+//"spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;e5d54e7f113a9eb29a7ff6bbebe7eca9",
+ "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;91b04592e14b3cc30f34c1324a59e8ad",
+ "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
 
 "sites":[
   // {"key":"drpy_js_豆瓣","name":"豆瓣┃2ha.cc","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"http://ftp6284928.host108.abeiyun.cn/drpy/js/drpy.js"},
+ {
+            "key": "js豆瓣",
+            "name": "🍥┃豆瓣┃软件接口免费,禁止贩卖,公众号:『多多影音』提供🍥",
+            "type": 3,
+            "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin2.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/douban.js"
+        },
+        {
+            "key": "js豆瓣备用",
+            "name": "🍥┃豆瓣备用┃付费获取接口都是骗人的,勿信视频中广告🍥",
+            "type": 3,
+            "api": "https://jihulab.com/duomv/duo/-/raw/main/js/doubanbf.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
   {
       "key": "js豆瓣",
       "name": "┃豆瓣┃小雅",
@@ -12,6 +32,16 @@
       "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
       "ext": "http://alist.xn--z7x900a.love:63/豆瓣.js"
     },
+          {
+            "key": "drpy_js_豆瓣",
+            "name": "豆瓣推荐[js]",
+            "type": 3,
+            "api": "https://xhdwc.tk/lib/drpy2.min.js",
+            "ext": "https://xhdwc.tk/js/drpy.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0
+        },
   {
             "key": "js豆瓣",
             "name": "🐼┃豆瓣┃免费接口，微信公众号：肥猫不肥",
@@ -24,7 +54,7 @@
             "name": "🎬┃豆瓣┃荐片",
             "type": 3,
             "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
-            "playerType": "2",
+            //"playerType": "2",
             "ext": "http://smallmi.xiaohewanwan.love:63/jp.js",
             "searchable": 1,
             "quickSearch": 1,
